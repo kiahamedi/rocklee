@@ -9,7 +9,7 @@ extract any movie links from url
 
 ## Dependencies
 `gem install nokogiri`</br>
-`gem install httpart`</br>
+`gem install httparty`</br>
 </br>
 
 ## Usage
