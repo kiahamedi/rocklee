@@ -12,7 +12,7 @@ extract any movie links from url
 `gem install httpart`</br>
 </br>
 
-## Use
+## Usage
 `git clone https://github.com/kiahamedi/rocklee`</br>
 `cd rocklee`</br>
 `ruby rocklee.rb`</br>
